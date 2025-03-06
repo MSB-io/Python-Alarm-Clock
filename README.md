@@ -1,4 +1,10 @@
-# 🕰️ Python Alarm Clock
+# 🕰️ Python Alarm Clock - Pookie Clock
+
+Group 36 : Python Alarm Clock
+- Mahesh Rajpurohit
+- Tripathi Om Ashwin
+- Manthan Bhosale
+- Saniya Ajay Kapure
 
 A modern, feature-rich alarm clock application built with Python and Tkinter.
 
@@ -14,25 +20,25 @@ A modern, feature-rich alarm clock application built with Python and Tkinter.
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 - Python 3.x
 - Required packages:
-  ```bash
-  pip install tkinter pygame
-  ```
+- pip3 install pygame
+- pip3 install simpleaudio
+- pip3 install PyQt5
+
 
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/yourusername/Python-Alarm-Clock.git
    cd Python-Alarm-Clock
-   ```
+   
 
 2. Run the application:
-   ```bash
-   python alarm_clock.py
-   ```
+   
+   python main.py
+   
 
 ## 🎯 How to Use
 
@@ -61,19 +67,5 @@ Contributions are welcome! Please feel free to:
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Sound effects from [source]
-- Icons from [source]
-- Inspired by [source]
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
-
-Made with ❤️ by [Your Name]
 
 
