@@ -1,4 +1,4 @@
-# 🕰️ Python Alarm Clock - Pookie Clock
+# 🕰️ Python Alarm Clock - Pookie Clock🎀
 
 Group 36 : Python Alarm Clock
 - Mahesh Rajpurohit
