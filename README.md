@@ -1,25 +1,79 @@
-<img width="1469" alt="Screenshot 2025-03-06 at 4 35 29 PM" src="https://github.com/user-attachments/assets/98b411a8-c4b0-465c-8854-71318bddd231" />Project Title & Description - Pookie clock 🎀 :
+# 🕰️ Python Alarm Clock
 
+A modern, feature-rich alarm clock application built with Python and Tkinter.
 
+## ✨ Features
 
-Technologies/Libraries used ->  pygame - for puzzles , PyQt5 used for ui , simple audio 
+- User-friendly graphical interface
+- Set multiple alarms with custom messages
+- 24-hour time format support
+- Audio notifications with customizable sound
+- Snooze functionality
+- Real-time clock display
 
-Screenshots of the ui
-https://drive.google.com/drive/folders/1oU4NYq0oGfqMqUXdkUEogprimrfPujvz?usp=sharing
+## 🚀 Getting Started
 
+### Prerequisites
 
+- Python 3.x
+- Required packages:
+  ```bash
+  pip install tkinter pygame
+  ```
 
-How to run the project :  s1-  create a virtual environment in the terminal : 
-python3 -m venv venv
-source venv/bin/activate
+### Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Python-Alarm-Clock.git
+   cd Python-Alarm-Clock
+   ```
 
-s2- install all the libraires : pip install PyQt5 pygame
+2. Run the application:
+   ```bash
+   python alarm_clock.py
+   ```
 
+## 🎯 How to Use
 
-s3 - run the app using : python main.py 
+1. Launch the application
+2. Set your desired alarm time using the time picker
+3. Add an optional message for the alarm
+4. Click "Set Alarm" to activate
+5. When the alarm triggers, you can either:
+   - Stop the alarm
+   - Snooze for 5 minutes
 
+## 🛠️ Technical Details
 
-VIOLA  HERE YOU GO!! U HAVE  REACHED THE FINAL DESTINATION✨
+- Built using Python's Tkinter library for the GUI
+- Implements threading for background alarm monitoring
+- Uses Pygame for audio playback
+- Object-oriented design for better code organization
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to:
+- Report bugs
+- Suggest features
+- Submit pull requests
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- Sound effects from [source]
+- Icons from [source]
+- Inspired by [source]
+
+## 📞 Contact
+
+For questions or suggestions, please open an issue in the repository.
+
+---
+
+Made with ❤️ by [Your Name]
 
 
