@@ -2,7 +2,7 @@
 
 
 
-Technologies/Libraries used -> pygame- for puzzles , PyQt5 used for ui
+Technologies/Libraries used ->  pygame - for puzzles , PyQt5 used for ui , simple audio 
 
 Screenshots of the ui
 https://drive.google.com/drive/folders/1oU4NYq0oGfqMqUXdkUEogprimrfPujvz?usp=sharing
