@@ -9,12 +9,17 @@ https://drive.google.com/drive/folders/1oU4NYq0oGfqMqUXdkUEogprimrfPujvz?usp=sha
 
 
 
-How to run the project : s1-  create a virtual environment in the terminal : 
+How to run the project :  s1-  create a virtual environment in the terminal : 
 python3 -m venv venv
 source venv/bin/activate
 
+
 s2- install all the libraires : pip install PyQt5 pygame
+
+
 s3 - run the app using : python main.py 
+
+
 VIOLA  HERE YOU GO!! U HAVE  REACHED THE FINAL DESTINATION✨
 
 
