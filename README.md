@@ -6,7 +6,7 @@ Group 36 : Python Alarm Clock
 - Manthan Bhosale
 - Saniya Ajay Kapure
 
-A modern, feature-rich alarm clock application built with Python and Tkinter.
+A modern, feature-rich alarm clock application built with Python and PyQt5.
 
 ## ✨ Features
 
@@ -52,7 +52,7 @@ A modern, feature-rich alarm clock application built with Python and Tkinter.
 
 ## 🛠️ Technical Details
 
-- Built using Python's Tkinter library for the GUI
+- Built using Python's PyQt5 library for the GUI
 - Implements threading for background alarm monitoring
 - Uses Pygame for audio playback
 - Object-oriented design for better code organization
